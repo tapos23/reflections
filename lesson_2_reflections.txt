@@ -2,3 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 It makes a .git file in the directory that keep track of all the changes in the files.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 i don't know.
+How can you use the staging area to make sure you have one commit per logical change?
+From working directory add one logical change to staging area and then commit.

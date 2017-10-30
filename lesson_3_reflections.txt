@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 Branch creates a different path to experiment with the master code. Clone makes a wxact copy of repository. Fork is like a clone just done in a GitHub platform.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Stay up to date with the work.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I can collaborate using google drive or email. GitHub is easier.

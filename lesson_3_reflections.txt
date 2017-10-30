@@ -8,3 +8,5 @@ What is the benefit of having a copy of the last known state of the remote store
 Stay up to date with the work.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I can collaborate using google drive or email. GitHub is easier.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When i want to experiment with something i am not sure yet, i should use a separate branch. As first priority should be keep the master branch clean. 
